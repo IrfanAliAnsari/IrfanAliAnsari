@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Passionate Business Analyst from India<br><br>- 🔭 I’m currently study MBA (Finance and Business Analyst) @ Netaji Subhas University of Technolgy<br>- ⚡ In my free time I try to learn about coding as much as possible.</p>
+<p align="left">I'm Passionate Business Analyst from India<br><br>- 🔭 I’m currently pursuing MBA (Finance and Business Analyst) @ Netaji Subhas University of Technolgy<br>- ⚡ In my free time I try to learn about coding as much as possible.</p>
 
 ###
 
@@ -44,3 +44,9 @@
 </div>
 
 ###
+
+<h2 align="left">Project</h2>
+
+###
+* [Data Analyst project with R](https://github.com/IrfanAliAnsari/Data-Analyst-with-R)
+
